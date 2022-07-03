@@ -4,3 +4,7 @@ p{
 img{
     width: 50%;
 }
+hr{
+    height: 20px;
+    background-color: yellow;
+}
